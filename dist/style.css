@@ -87,8 +87,12 @@ header h1 {
   color: #ff7ca6;
 }
 
-header .lead {
-  max-width: 40ch;
+
+
+/* Main Content */
+
+main {
+  color: #767676;
 }
 
 /* Type Utilities */
@@ -108,6 +112,16 @@ header .lead {
   background-color: #040234;
   color: #dcd9ee;
 }
+
+.text-dark {
+  color: #150f64;
+}
+
+.text-medium {
+  color: #7893dc;
+}
+
+
 
 /* Utilities */
 
@@ -141,3 +155,11 @@ header .lead {
   margin-bottom: 0;
 }
 
+.margin-v-lg {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.max-line-length {
+  max-width: 60ch;
+}
