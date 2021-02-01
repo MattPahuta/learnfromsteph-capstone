@@ -1,10 +1,4 @@
-# Learn Web Development With Steph
-
-## Getting Started: Setup Working Environment
-
-This directory is a blank project that will be the foundation built upon for each lesson in this course.
-
-[**Course information >**](https://learnfromsteph.dev)
+# Unicorn Space Tours
 
 ## Building and running on localhost
 
